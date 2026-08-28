@@ -4,7 +4,7 @@ A 2D tile-based role-playing game built in Java for managing game loops, entity 
 
 ---
 
-## Key Features & Security
+## Key Features
 
 - Game Loop & State Management: Dynamic state switching (MenuState, GameState, InstructionState, StoryState, EndingState) handled cleanly via OOP design patterns.
 - Persistent Storage: Game state and player progress are saved and loaded from disk using SQLite (`DataBaseManager`).
@@ -19,7 +19,7 @@ A 2D tile-based role-playing game built in Java for managing game loops, entity 
 - Language: Java
 - Database: SQLite (JDBC Driver)
 - Build System: IDE Project (IntelliJ IDEA / Eclipse)
-- Libraries & Frameworks: Standard Java Swing & AWT (Graphics, Input)
+- Libraries & Frameworks: Java Swing & AWT (Graphics, Input)
 - Concepts: Object-Oriented Programming, Design Patterns, Data Structures
 
 ---
